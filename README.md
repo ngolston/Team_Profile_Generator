@@ -8,7 +8,7 @@ A Node.js command-line application that takes in information about employees on 
 
 ## Usage
 
-![day-planner website](screenshot.png)
+![Team-Profile-Generator website](./assets/images/screenshot.png)
 
 - [Walkthrough] (https://youtu.be/icfmBOgl1s8)
 - [Github](https://github.com/ngolston/Team_Profile_Generator)
